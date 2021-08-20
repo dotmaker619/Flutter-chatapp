@@ -1,13 +1,6 @@
 # flutter_chat
 A Chat Helper for create chat application in Flutter using Firebase as backend services.
 
-# Support Development
-If you found this project helpful or you learned something from the source code and want to thank me, consider buying me a cup of ☕️
-
-[PayPal](https://paypal.me/ankeshkumar01)
-
-[<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="60px" width="200px"/>](https://www.buymeacoffee.com/ankeshkumar)
-
 ## Features:
 1. 1-1 chat.
 2. Chat with only added friends(Privacy). New
@@ -43,5 +36,5 @@ dependencies:<br/>[flutter_chat](https://pub.dev/packages/flutter_chat)
     and in body of Widget build:<br/>
     -> ChatData.widgetWelcomeScreen(context)
 
-# Thanks for coffee:
-Eirik Bakken
+# Thanks for attention:
+Hayden Lu
